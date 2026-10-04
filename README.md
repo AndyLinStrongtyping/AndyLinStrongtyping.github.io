@@ -2,7 +2,7 @@
 
 正式網址：https://AndyLinStrongtyping.github.io/
 
-純 HTML / CSS / JavaScript 的個人作品集，以持續升級的科幻 RPG 介面呈現真實作品與個人責任。團隊成果與個人追加明確區分，Cloud / AWS / observability 僅標示為下一步。
+純 HTML / CSS / JavaScript 的個人作品集，以持續升級的科幻 RPG 介面呈現真實作品與個人責任。目前求職定位為 Junior Backend／API 開發；AMHS STK 現場狀態查看與 MCS 電話協作是背景經驗，Cloud / Platform 是下一階段方向。團隊成果與個人追加明確區分，AWS / observability 不列為已完成技能。
 
 ## 本機預覽
 
